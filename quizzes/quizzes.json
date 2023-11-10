@@ -1,0 +1,74 @@
+{
+    "1": {
+            "id": 1,
+            "tags": ["jungle", "top"],
+            "description": "Quizz about jungle/toplane",
+            "difficulty": "easy",
+            "title": "Quizz1",
+            "duration": 2,
+            "questions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+        },
+    "2": {
+            "id": 2,
+            "tags": ["general"],
+            "description": "Quizz about ultimate cooldowns",
+            "difficulty": "medieum",
+            "title": "Quizz2",
+            "duration": 2,
+            "questions": ["16", "17", "18", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+        },
+    "3": {
+            "id": 3,
+            "tags": ["cassiopeia", "mid", "top"],
+            "description": "Quizz about midlane",
+            "difficulty": "hard",
+            "title": "Quizz3",
+            "duration": 2,
+            "questions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+        },
+    "4": {
+            "id": 1,
+            "tags": ["jungle", "top"],
+            "description": "Quizz about jungle/toplane",
+            "difficulty": "easy",
+            "title": "Quizz1",
+            "duration": 2,
+            "questions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+        },
+    "5": {
+            "id": 2,
+            "tags": ["general"],
+            "description": "Quizz about ultimate cooldowns",
+            "difficulty": "medieum",
+            "title": "Quizz2",
+            "duration": 2,
+            "questions": ["16", "17", "18", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+        },
+    "6": {
+            "id": 3,
+            "tags": ["mid"],
+            "description": "Quizz about midlane",
+            "difficulty": "hard",
+            "title": "Quizz3",
+            "duration": 2,
+            "questions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+        },
+    "7": {
+        "id": 3,
+        "tags": ["azir", "mid"],
+        "description": "Quizz about midlane",
+        "difficulty": "hard",
+        "title": "Quizz3",
+        "duration": 2,
+        "questions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+    },
+    "8": {
+        "id": 3,
+        "tags": ["ganre", "top"],
+        "description": "Quizz about midlane",
+        "difficulty": "hard",
+        "title": "Quizz3",
+        "duration": 2,
+        "questions": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14","15"]
+    }
+    }
